@@ -1,0 +1,1 @@
+Estuda+ 2.8: 118 livros PDF extraídos para pasta livros/. Links usam arquivos reais, melhorando abertura, download e impressão no GitHub Pages. Envie todos os arquivos e a pasta livros ao repositório, preservando a estrutura. O guia dicas-de-estudo.pdf permanece na raiz. Em iPhone, abra o PDF em outra aba para usar Compartilhar > Imprimir.

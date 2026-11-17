@@ -1,0 +1,12 @@
+ESTUDA+ 3.0 — BIBLIOTECA UNIFICADA
+
+Livros e resumos aparecem na mesma aba, organizados por ano e matéria.
+Os PDFs foram agrupados em 12 arquivos, um por ano escolar, dentro da pasta colecoes.
+O site usa pdf-lib no navegador para extrair somente as páginas do material escolhido, permitindo ler, baixar e imprimir esse PDF isolado.
+
+PUBLICAÇÃO NO GITHUB PAGES:
+Envie index.html, os demais arquivos de raiz e a pasta colecoes com seus 12 PDFs.
+NÃO envie apenas o ZIP: extraia primeiro.
+A primeira leitura requer internet para carregar pdf-lib via CDN. A conexão também é necessária para o GitHub Pages.
+No iPhone, a impressão pode exigir abrir o PDF em outra aba e usar Compartilhar > Imprimir.
+Os PDFs individuais antigos em livros/ e resumos/ não são necessários nesta versão.

@@ -1,0 +1,1 @@
+Estuda+ 2.9 — Leitura de livros, resumos e dicas no visualizador PDF com impressão. Envie TODAS as pastas (livros e resumos) ao GitHub Pages. A impressão usa o visualizador PDF do navegador; em iOS use Abrir PDF > Compartilhar > Imprimir. Os PDFs dos resumos reproduzem o conteúdo cadastrado, sem acrescentar informações não verificadas.

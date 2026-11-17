@@ -1,0 +1,1 @@
+Estuda+ 2.7 — assistente gratuito: leitura em voz alta (quando suportada), copiar/salvar conversa, cronômetro e perguntas rápidas. Não é IA generativa. Compatível com hospedagem estática GitHub Pages.
